@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Linden
 
+I'm a Statistics & Data Science + Computer Science major at CU Boulder, interesting in machine learning theory.
 <!--
 **lindenkurtz/lindenkurtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
