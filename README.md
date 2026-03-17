@@ -1,6 +1,10 @@
 ## Hi, I'm Linden
 
-I'm a Statistics & Data Science + Computer Science major at CU Boulder, interesting in machine learning theory.
+I'm a Statistics & Data Science + Computer Science major at CU Boulder, interested in machine learning theory.
+
+Skills: Python, R, C++, data analysis  
+Interests: ML, statistical modeling, AI in healthcare  
+Projects: Check out my pinned repos below
 <!--
 **lindenkurtz/lindenkurtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
