@@ -2,8 +2,8 @@
 
 I'm a **Statistics & Data Science + Computer Science** double major at CU Boulder, interested in **machine learning theory**.
 
-**Skills**: Python, R, C++, data analysis  
-**Interests**: ML, statistical modeling, AI in healthcare  
+**Skills**: Python, C++, R
+**Interests**: Theoretical machine learning, optimization, diffusion  
 **Projects**: Check out my pinned repos below
 <!--
 **lindenkurtz/lindenkurtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
